@@ -1,0 +1,1 @@
+export { BtnStart } from './BtnStart';
